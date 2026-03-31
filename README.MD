@@ -54,7 +54,9 @@ Run all cells sequentially.
 ### 3. Run UI (Demo Mode)
 
 ```bash
-python app/gradio_app.py
+Run all the Cells one by one followed by the final UI Cell
+Note that The Functionalites are to be Pre-Computed before displaying
+in UI(For Demo Mode Only)
 ```
 
 ---
